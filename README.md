@@ -34,4 +34,4 @@ I'm open to collaborating on exciting projects! If you have something in mind, f
 I enjoy experimenting with new coding challenges and turning them into creative solutions.
 
 ## 📊 Current stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=protamim&theme=dayfox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=protamim&theme=dayfox&date_format=M%20j%5B%2C%20Y%5D)](https://www.linkedin.com/in/tamim-talukdar-35a5a2287/)
