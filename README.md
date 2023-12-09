@@ -1,5 +1,5 @@
 ![Header Banner](./images/github-banner.png)
-
+![](https://komarev.com/ghpvc/?username=protamim) <br />
 I'm a passionate and detail-oriented React Front-end Developer with a strong foundation in HTML, CSS, and a knack for creating responsive and visually appealing user interfaces. Here's a glimpse of my tech stack:
 
 ## 🔧 Tech Stack
@@ -32,3 +32,6 @@ I'm open to collaborating on exciting projects! If you have something in mind, f
 ## 💡 Fun Fact
 
 I enjoy experimenting with new coding challenges and turning them into creative solutions.
+
+## 📊 Current stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=protamim&theme=dayfox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
