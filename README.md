@@ -21,7 +21,7 @@ I'm currently diving deeper into **Next.JS**, exploring advanced concepts and be
 
 ## 📫 Let's connect
 
-[<img src="https://icons8.com/icon/13930/linkedin"/>](https://www.linkedin.com/in/tamim-talukdar-35a5a2287/)
+[<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/tamim-talukdar-35a5a2287/)
 [<img src="https://icons8.com/icon/phOKFKYpe00C/twitterx"/>](https://twitter.com/talukdar_32)
 [<img src="https://icons8.com/icon/118497/facebook"/>](https://www.facebook.com/protamim32/)
 
