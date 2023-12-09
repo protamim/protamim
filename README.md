@@ -1,4 +1,4 @@
-![Header Banner](./images/github-header-banner.png)
+![Header Banner](./images/github-banner.png)
 
 I'm a passionate and detail-oriented React Front-end Developer with a strong foundation in HTML, CSS, and a knack for creating responsive and visually appealing user interfaces. Here's a glimpse of my tech stack:
 
@@ -19,13 +19,11 @@ I'm currently working on **Bhraman Guide**, a full-stack tour guide application 
 
 I'm currently diving deeper into **Next.JS**, exploring advanced concepts and best practices.
 
-## What
-
 ## 📫 Let's connect
 
-[<img src="https://img.icons8.com/material-rounded/24/000000/linkedin--v1.png"/> LinkedIn](https://www.linkedin.com/in/tamim-talukdar-35a5a2287/)
-[<img src="https://img.icons8.com/material-rounded/24/000000/twitter--v1.png"/> Twitter](https://twitter.com/your-handle)
-[<img src="https://img.icons8.com/material-rounded/24/000000/domain.png"/> Portfolio](https://www.yourportfolio.com)
+[<img src="https://icons8.com/icon/13930/linkedin"/>](https://www.linkedin.com/in/tamim-talukdar-35a5a2287/)
+[<img src="https://icons8.com/icon/phOKFKYpe00C/twitterx"/>](https://twitter.com/talukdar_32)
+[<img src="https://icons8.com/icon/118497/facebook"/>](https://www.facebook.com/protamim32/)
 
 ## 🤝 Open to collaborations
 
