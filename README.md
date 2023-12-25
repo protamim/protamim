@@ -27,7 +27,7 @@ I'm currently diving deeper into **Next.JS**, exploring advanced concepts and be
 
 ## 🤝 Open to collaborations
 
-I'm open to collaborating on exciting projects! If you have something in mind, feel free to reach out by **[Email](s163.tamim@gmail.com).**
+I'm open to collaborating on exciting projects! If you have something in mind, feel free to reach out by **[Email](mailto:s163.tamim@gmail.com).**
 
 ## 💡 Fun Fact
 
