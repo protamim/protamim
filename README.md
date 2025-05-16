@@ -15,10 +15,6 @@ I'm a passionate and detail-oriented React Front-end Developer with a strong fou
 
 I'm currently working on **Bhraman Guide**, a full-stack tour guide application revolutionizing the online tour guide and provide tour services. From seamless user authentication to a dashboard management system, this project incorporates the latest technologies to deliver a cutting-edge platform. Stay tuned for updates!
 
-## 🌱 What I'm currently learning
-
-I'm currently diving deeper into **Next.JS**, exploring advanced concepts and best practices.
-
 ## 📫 Let's connect
 
 [<img src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/tamim-talukdar-35a5a2287/)
