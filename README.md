@@ -1,4 +1,4 @@
-[<img src="./images/github-banner.png" alt="Protamim Banner" />](https://tamim-talukdar.vercel.app/)
+[<img src="./images/github-banner.png" alt="Protamim Banner" />](https://protamim.com/)
 ![](https://komarev.com/ghpvc/?username=protamim) <br />
 I'm a passionate and detail-oriented React Front-end Developer with a strong foundation in HTML, CSS, and a knack for creating responsive and visually appealing user interfaces. Here's a glimpse of my tech stack:
 
@@ -13,7 +13,7 @@ I'm a passionate and detail-oriented React Front-end Developer with a strong fou
 
 ## 🚀 What I'm currently working on
 
-I'm currently working on **Bhraman Guide**, a full-stack tour guide application revolutionizing the online tour guide and provide tour services. From seamless user authentication to a dashboard management system, this project incorporates the latest technologies to deliver a cutting-edge platform. Stay tuned for updates!
+Portili is a client portal web app to help agency owners, and service based businesses to manage their clients, projects, invoices, and file sharing with a secure dashboard.
 
 ## 📫 Let's connect
 
