@@ -1,13 +1,13 @@
 [<img src="./images/github-banner.png" alt="Protamim Banner" />](https://protamim.com/)
 ![](https://komarev.com/ghpvc/?username=protamim) <br />
-I'm a passionate and detail-oriented React Front-end Developer with a strong foundation in HTML, CSS, and a knack for creating responsive and visually appealing user interfaces. Here's a glimpse of my tech stack:
+I'm a full-stack web application developer, specialized in Nextjs, Expressjs, Reactjs, and PostgreSQL. I love to build web app that solves a real world problem. I focus on scalability, maintainability, and clean architecture. . Here's a glimpse of my tech stack:
 
 ## 🔧 Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks:** React, Express.js
 - **CSS Framework:** Tailwind CSS
-- **Database:** MongoDB
+- **Database:** PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
 - **Server-Side:** Node.js
 
